@@ -4,12 +4,12 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBeq3MVWVKxFus7vgPw-Aw2wYHnG5MxmSI",
-  authDomain: "ladle-b7de3.firebaseapp.com",
-  projectId: "ladle-b7de3",
-  storageBucket: "ladle-b7de3.appspot.com",
-  messagingSenderId: "1049664544361",
-  appId: "1:1049664544361:web:51c4b6f861d1a4e7c84cf8"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = !firebase.apps.length
